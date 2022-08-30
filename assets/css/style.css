@@ -1,0 +1,20 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:aliceblue;
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    margin: 0;padding: 0;
+    background-color: white;
+}
+.logo{
+    margin: 1rem;
+}
+h1{
+    display: inline-block;
+    font-size: 2.5rem;
+    vertical-align: bottom;
+}

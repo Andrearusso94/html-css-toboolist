@@ -18,3 +18,32 @@ h1{
     font-size: 2.5rem;
     vertical-align: bottom;
 }
+
+#corpo{
+    background-color: white;
+    margin: auto;
+    width: 1000px;
+    height: 500px;
+    margin-top: 2.5rem;
+}
+.bottoni{
+    border-bottom: 2px solid aliceblue;
+    margin: 10px;
+    padding: 30px;
+}
+.first{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    border-color: blue;
+    width: 100px;
+    height: 40px;
+}
+.second{
+    background-color: white;
+    color: lightsteelblue;
+    border-radius: 5px;
+    border-color: lightsteelblue;
+    width: 100px;
+    height: 40px;
+}

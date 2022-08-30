@@ -23,7 +23,7 @@ h1{
     background-color: white;
     margin: auto;
     width: 1000px;
-    height: 500px;
+    height: 1250px;
     margin-top: 2.5rem;
 }
 .bottoni{
@@ -55,7 +55,16 @@ h1{
     width: 50px;
     border: 3px solid;
     border-radius: 70px;
-    border-color: green
+    border-color: green;
+}
+.cross{
+    font-size: 2rem;
+    color:brown;
+    height: 50px;
+    width: 50px;
+    border: 3px solid;
+    border-radius: 70px;
+    border-color: brown;
 }
 
 
@@ -66,4 +75,39 @@ h1{
     width: 150px;
     border-radius: 5px;
     
+}
+.qgoals{
+    background-color:darkorchid;
+    color: white;
+    height: 100px;
+    width: 150px;
+    border-radius: 5px;
+}
+.recruiting{
+    background-color:mediumseagreen ;
+    color: white;
+    height: 100px;
+    width: 150px;
+    border-radius: 5px;
+}
+.mobile{
+    background-color: orange;
+    color: white;
+    height: 100px;
+    width: 150px;
+    border-radius: 5px;
+}
+.website{
+    background-color: violet;
+    color: white;
+    height: 100px;
+    width: 150px;
+    border-radius: 5px;
+}
+.sales{
+    background-color: greenyellow;
+    color: white;
+    height: 100px;
+    width: 150px;
+    border-radius: 5px;
 }
